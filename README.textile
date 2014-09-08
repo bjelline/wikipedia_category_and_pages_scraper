@@ -1,0 +1,1 @@
+This scraper retrieves all the pages for power plants on Wikipedia which are organized using the hierarchy of categories starting at "Category:Power_stations_by_country":http://en.wikipedia.org/wiki/Category:Power_stations_by_country.  This is achieved via a _single_ SPARQL query which performs a hierarchical category traversal using the endpoint at live.dbpedia.org.
